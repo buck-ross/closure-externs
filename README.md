@@ -19,6 +19,8 @@ First, install Woodsman into your project. The recommended way of doing this is 
 
 From there, feel free to use any of the following externs files, all of which can be found under the "/externs" directory:
 
+ - `amd.js`: A file providing a very basic definition of the global objects present in the [AMD](https://en.wikipedia.org/wiki/Asynchronous_module_definition) specification.
+
 ## Interacting with our Community
 Welcome to the *Haximilian Closure Externs* Community! We're happy you're here! We're doing our best to make *Haximilian Closure Externs* be the perfect logging API that you always wanted, but before you reach out to us with your questions or complaints, please be sure to read through the following documents to help streamline all correspondence and make the process as pleasant and headache-free as possible:
  - [Our Code of Conduct](.github/CODE_OF_CONDUCT.md)
