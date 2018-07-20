@@ -1,0 +1,15 @@
+# Ignore all git & github related documents:
+/.git
+/.github
+/.gitattributes
+/.gitignore
+
+# Ignore all documentation (excluding the README):
+/build/jsdoc
+
+# Ignore all build assets:
+/.jsdoc.json
+
+# Ignore all editor assistants:
+/.eslintignore
+/.eslintrc.json

@@ -1,0 +1,27 @@
+{
+  "name": "haximilian-closure-externs",
+  "version": "1.0.0",
+  "description": "Common extern files I use in a lot of my projects",
+  "scripts": {
+    "doc": "jsdoc --configure .jsdoc.json .",
+    "lint": "eslint --ext .js,.jsx,.jsdoc --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haximilian/haximilian-closure-externs.git"
+  },
+  "keywords": [
+    "closure-compiler",
+    "extern"
+  ],
+  "author": "Haximilian <haximilian@gmail.com>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/haximilian/haximilian-closure-externs/issues"
+  },
+  "homepage": "https://github.com/haximilian/haximilian-closure-externs#readme",
+  "devDependencies": {
+    "eslint": "^5.1.0",
+    "jsdoc": "^3.5.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tags": {
+    "dictionaries": [ "jsdoc", "closure" ]
+  },
+  "opts": {
+    "recurse": true,
+    "verbose": true,
+    "readme": "README.md",
+    "destination": "build/jsdoc"
+  },
+  "source": {
+    "excludePattern": "build|node_modules|/[.].+",
+    "includePattern": ".+\\.js$"
+  }
+}
