@@ -13,7 +13,7 @@ Copyright &copy; 2018 Haximilian<br/>
 For a complete copy of the license, please see the included "LICENSE" file.
 
 ## Getting Started
-First, install Woodsman into your project. The recommended way of doing this is using [NPM](https://www.npmjs.com/) with the `-D` or `--save-dev` option to save *haximilian-closure-externs* as a development dependency in your `package.json` file:
+First, install *Haximilian Closure Externs* into your project. The recommended way of doing this is using [NPM](https://www.npmjs.com/) with the `-D` or `--save-dev` option to save *haximilian-closure-externs* as a development dependency in your `package.json` file:
 
 > npm i -D haximilian-closure-externs
 
