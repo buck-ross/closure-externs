@@ -1,6 +1,6 @@
 {
   "name": "haximilian-closure-externs",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Common extern files I use in a lot of my projects",
   "scripts": {
     "doc": "jsdoc --configure .jsdoc.json .",
