@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/haximilian/haximilian-closure-externs#readme",
   "devDependencies": {
-    "eslint": "^5.1.0",
-    "jsdoc": "^3.5.5"
+    "eslint": "^5.16.0",
+    "jsdoc": "^3.6.2"
   }
 }

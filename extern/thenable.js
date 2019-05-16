@@ -34,3 +34,7 @@ var Thenable = function() {};
 * @return {Thenable} A new "thenable" object, representing the next link in the chain
 */
 Thenable.prototype.then = function(onFulfilled, onRejected) {};
+
+// eslint-disable-next-line capitalized-comments
+// ex: set ft=javascript ff=unix ts=4 sw=4 tw=0 noet :
+

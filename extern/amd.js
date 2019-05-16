@@ -36,7 +36,6 @@ define.amd = {};
 
 /**
 * The "Require" function is slightly simpler than "Define" according to the AMD Spec, but also a lot more provider-specific.
-* @global
 * @param {string|Array<string>} dependencies A list of dependencies for the script.
 * @param {function(...*): null} [callback] The function to call once all of the dependencies have been acquired. Can be omitted in the case of a CommonJS-style call in certain cases.
 * @return {?} If the only parameter is a string, "require" is treated similarly to CommonJS. Otherwise, it should not return anything.
@@ -49,3 +48,7 @@ function require(dependencies, callback) {}
 * @return {string} The resulting module URL
 */
 require.toUrl = function(id) {};
+
+// eslint-disable-next-line capitalized-comments
+// ex: set ft=javascript ff=unix ts=4 sw=4 tw=0 noet :
+
